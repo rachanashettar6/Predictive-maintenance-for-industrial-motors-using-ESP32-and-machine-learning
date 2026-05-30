@@ -1,0 +1,61 @@
+PREDICTIVE MAINTENANCE FOR INDUSTRIAL MOTORS USING ESP32 AND MACHINE LEARNING
+
+Hardware Components
+
+1. ESP32 Development Board – 1 No
+2. LM35 Temperature Sensor – 1 No
+3. SW420 Vibration Sensor – 1 No
+4. IR Sensor Module – 1 No
+5. Industrial DC Motor – 1 No
+6. Breadboard – 1 No
+7. Jumper Wires – As Required
+8. USB Programming Cable – 1 No
+9. Power Supply Module – 1 No
+
+Software Components
+
+1. Arduino IDE
+2. Google Colab
+3. Python
+4. Firebase Realtime Database
+5. Firebase Studio
+6. Scikit-Learn
+7. Pandas
+8. NumPy
+9. Firebase ESP32 Client Library
+10. ArduinoJson Library
+
+Machine Learning Model
+
+- Random Forest Classifier
+
+Cloud Platform
+
+- Firebase Realtime Database
+
+Dashboard Platform
+
+- Firebase Studio Dashboard
+
+Measured Parameters
+
+- Temperature
+- Vibration
+- RPM
+
+Predicted Conditions
+
+- NORMAL
+- STOPPED
+- OVERCURRENT
+- OVERHEAT
+- UNBALANCE
+
+Project Modules
+
+1. Sensor Data Acquisition Module
+2. ESP32 Processing Module
+3. Machine Learning Prediction Module
+4. Firebase Cloud Module
+5. Dashboard Visualization Module
+6. Maintenance Alert Module
